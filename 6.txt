@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello
 abc
 how do you
+=======
+123
+>>>>>>> alpha
